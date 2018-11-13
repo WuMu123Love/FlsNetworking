@@ -1,2 +1,3 @@
 # FlsNetworking
 这是对AFNWorking的封装
+注意：使用FLSNetworking之前现在项目中集成
